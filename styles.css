@@ -71,7 +71,7 @@ body {
 }
 .eyes {
   position: absolute;
-  top: 50%;
+  top: 70%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
@@ -98,3 +98,24 @@ body {
   border-radius: 50%;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "eyeBalls eyeBalls eyeBalls eyeBalls"
+    "eyeBalls eyeBalls eyeBalls eyeBalls"
+    "description description description description";
+}
+.eyeBalls { 
+  grid-area: eyeBalls; 
+}
+.description { 
+grid-area: description; 
+color: white;
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 1.2em;
+
+}

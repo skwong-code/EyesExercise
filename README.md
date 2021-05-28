@@ -10,6 +10,13 @@ The project assignment was by MIT XPro. This assignment practices fundamental Ja
 
 This is exactly how it *looks*.  😊  Move the mouse and the *eye* keeps looking where you are moving.  
 
+**How to Run**
+I have installed github pages, this project should run in the browser at this location:
+
+https://skwong-code.github.io/EyesExercise/
+
+This page is apart of my portfolio page. 
+
 **Future Improvements**
 
 Improved version of for mobile.  As for real world uses, I don’t *see* it anytime soon.  When you *look* at this page on the mobile version, its *looks* squished.  Future improvements to come. 

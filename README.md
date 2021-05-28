@@ -9,9 +9,13 @@ The project assignment was by MIT XPro. This assignment practices fundamental Ja
 •	CSS manipulation
 
 This is exactly how it *looks*.  😊  Move the mouse and the *eye* keeps looking where you are moving.  
+
 **Future Improvements**
+
 Improved version of for mobile.  As for real world uses, I don’t *see* it anytime soon.  When you *look* at this page on the mobile version, its *looks* squished.  Future improvements to come. 
+
 **Support**
+
 You can contact me at stephan.wong@gmail.com
 Please include this github repo in your subject line so it will grab my attention otherwise it will get lost in the sea of spam. 
 
